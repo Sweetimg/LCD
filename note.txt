@@ -1,0 +1,7 @@
+﻿LCD是一种特殊的字体
+参考网址：https://blog.csdn.net/sunshine_han/article/details/78258880
+
+步骤：
+1.下载LCD字体（格式为.ttf）
+2.通过fontconverter或者fontsquirrel.com来生成.woff格式
+3.然后引入，使用
